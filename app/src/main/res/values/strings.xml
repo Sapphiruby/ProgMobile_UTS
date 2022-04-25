@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Gallatea Andromedia</string>
+    <string name="open" />
+    <string name="close" />
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="invalid_email">Email tidak valid!</string>
+    <string name="invalid_username">Username tidak boleh kosong!</string>
+    <string name="invalid_password">Password minimal 6 karakter!</string>
+    <string name="invalid_passw">Password tidak boleh kosong!</string>
+    <string name="invalid_pass">Password tidak boleh kosong!</string>
+</resources>
